@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
+    <h1 align="center">Hola, soy <a href="https://christiancadenar.com/">Christian Cadena</a> 👋</h1>
+</div>
 
+<div align="center">
+    <img src="krist.gif">
+</div>
 <!--
 **krist2357/krist2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
